@@ -1,5 +1,5 @@
 {
-	"name": "undefinedoffset/sortablegridfield",
+	"name": "maldicore/sortablegridfield",
 	"description": "Adds drag and drop functionality to SilverStripe 3.0's GridField",
 	"type": "silverstripe-module",
 	"keywords": ["silverstripe", "gridfield"],
@@ -13,7 +13,7 @@
 	],
 	"require":
 	{
-		"silverstripe/framework": ">=3.0.1,<3.2",
+		"silverstripe/framework": ">=3.0.1,<3.2.*",
 		"composer/installers": "*"
 	},
 	"support": {
